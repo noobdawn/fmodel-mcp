@@ -1,0 +1,26 @@
+# ── Build output ──
+bin/
+obj/
+publish/
+
+# ── IDE / tool state ──
+.vs/
+.idea/
+*.user
+*.suo
+
+# ── Agent & tooling state directories ──
+.codegraph/
+.omo/
+.sisyphus/
+
+# ── External dependency checkouts (clone alongside this repo, see README) ──
+FModel/
+
+# ── Local-only engineering docs (not published) ──
+docs/
+
+# ── OS noise ──
+Thumbs.db
+.DS_Store
+*.log
