@@ -4,10 +4,10 @@
 
 **面向虚幻引擎游戏资产调研的 MCP 服务器** —— 挂载游戏、构建本地 SQLite 索引、用 SQL 查询、追踪包引用、导出模型与贴图动画，全部由 AI Agent 完成。基于 CUE4Parse；无需修改 FModel，无需 GUI。
 
-<img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-blue.svg">&nbsp;
-<img alt=".NET" src="https://img.shields.io/badge/.NET-10-512BD4.svg">&nbsp;
-<img alt="Platform" src="https://img.shields.io/badge/platform-Windows-0078D6.svg">&nbsp;
-<img alt="Protocol" src="https://img.shields.io/badge/protocol-MCP-6E4AFF.svg">
+<img alt="License" src="https://camo.githubusercontent.com/798509b4df525f56802b56f8096862487f08023e3d7561c68656f8dab10d0d6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4170616368652d2d322e302d626c75652e737667">&nbsp;
+<img alt=".NET" src="https://camo.githubusercontent.com/b0156f3b521f358b5f2d638fe2aef842b67191734bf9f41e976512e2df587eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d31302d3531324244342e737667">&nbsp;
+<img alt="Platform" src="https://camo.githubusercontent.com/e61e443ae29ec2ea8c44468f1a37136f30082accadf2537719f78fe632985795/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706c6174666f726d2d57696e646f77732d3030373844362e737667">&nbsp;
+<img alt="Protocol" src="https://camo.githubusercontent.com/f0302ad6daaa65a73c9cb532e7bac45f15df469b86c0f9e46a1f1772d06b4708/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70726f746f636f6c2d4d43502d3645344146462e737667">
 
 [English](README_en.md) | 简体中文
 
